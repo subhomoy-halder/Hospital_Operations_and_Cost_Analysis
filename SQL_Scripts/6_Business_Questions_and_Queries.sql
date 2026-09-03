@@ -1,4 +1,4 @@
-USE Hospital_Operations
+USE Hospital_Operations;
 
 -- 1. Total number of patients across all hospitals.
 SELECT
