@@ -13,7 +13,8 @@ The project follows an end to end SQL workflow, starting with database creation 
 The analysis aims to answer the following questions:
 
 1. How many patients were recorded across all hospitals?
-  https://github.com/subhomoy-halder/Hospital_Operations_and_Cost_Analysis/blob/87e0f543df62a305d79313c019fac7e1b82e2bca/Query_Outputs/1_Total_Number_of_patients_across_all_Hospitals.png
+  <img width="481" height="246" alt="1_Total_Number_of_patients_across_all_Hospitals" src="https://github.com/subhomoy-halder/Hospital_Operations_and_Cost_Analysis/blob/87e0f543df62a305d79313c019fac7e1b82e2bca/Query_Outputs/1_Total_Number_of_patients_across_all_Hospitals.png" />
+
 3. What is the average number of doctors available?
 4. Which departments have the highest patient volumes?
 5. Which hospital recorded the highest medical expenses?
