@@ -15,7 +15,9 @@ The analysis aims to answer the following questions:
 1. How many patients were recorded across all hospitals?
   <img width="481" height="246" alt="1_Total_Number_of_patients_across_all_Hospitals" src="https://github.com/subhomoy-halder/Hospital_Operations_and_Cost_Analysis/blob/87e0f543df62a305d79313c019fac7e1b82e2bca/Query_Outputs/1_Total_Number_of_patients_across_all_Hospitals.png" />
 
-3. What is the average number of doctors available?
+2. What is the average number of doctors available?
+  <img width="481" height="246" alt="1_Total_Number_of_patients_across_all_Hospitals" src="Query_Outputs/2_Average_number_of_doctors_per_hospital.png" />
+  
 4. Which departments have the highest patient volumes?
 5. Which hospital recorded the highest medical expenses?
 6. What is the medical expense per patient-day for each hospital?
